@@ -1,10 +1,15 @@
 <a href="https://giuliovaccari.it"><img align="center" src="https://raw.githubusercontent.com/giuliovv/giuliovv/main/assets/giulio_github_rosso.png"/></a>
 
 ___
+<p align="center">
 I'm an Automation and Control Systems Engineering MSc student at Politecnico di Milano.
-Founder of [Airhive](https://github.com/airhive) and [AEA](https://www.aeapolimi.it/).  
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliovv&include_all_commits=true&bg_color=eeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=00600f&title_color=00600f&text_color=388e3c" alt="Giulio's github stats" /> </a>
+</p>
+<p align="center">
+    Founder of <a href="https://github.com/airhive">Airhive</a> and <a href="https://www.aeapolimi.it">AEA</a>.  
+</p>
+    
+<p align="center">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliovv&include_all_commits=true&bg_color=eeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=7f0000&title_color=7f0000&text_color=b71c1c" alt="Giulio's github stats" /> </a></p>
 
 <a href="https://giuliovaccari.it">giuliovaccari.it</a>
 ___

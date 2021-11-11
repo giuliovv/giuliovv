@@ -4,12 +4,13 @@ ___
 <p align="center">
 I'm an Automation and Control Systems Engineering MSc student at Politecnico di Milano.
 </p>
+
+&nbsp;
     
-<p align="center">
+<p align="center", marginTop="100px">
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliovv&include_all_commits=true&bg_color=eeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=7f0000&title_color=7f0000&text_color=b71c1c" alt="Giulio's github stats" /> </a></p>
 
-
-
+&nbsp;
 <h2 align="center"> Projects</h2>
 
 

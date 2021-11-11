@@ -14,9 +14,9 @@ I'm an Automation and Control Systems Engineering MSc student at Politecnico di 
 
 
 * [`Tfest`](https://github.com/giuliovv/tfest) : Estimate a transfer function from its frequency response
-* [`Duckietown`](https://github.com/poliduckie) : A reinforcement learning based autonomous driving competition
+* [`Duckietown`](https://github.com/poliduckie) : An autonomous driving competition based on reinforcement learning based 
 * [`AEA`](https://github.com/aeapolimi) : The first Automation and Robotics Engineering Association of Politecnico di Milano
-* [`Airhive`](https://github.com/airhive) : Spatial prediction of pollution spread, NASA Space Apps 2018 runner-ups
+* [`Airhive`](https://github.com/airhive) : Pollution spreading spatial prediction, NASA Space Apps 2018 runner-ups
 
 ___
 

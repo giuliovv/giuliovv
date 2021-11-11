@@ -11,6 +11,18 @@ I'm an Automation and Control Systems Engineering MSc student at Politecnico di 
 <p align="center">
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliovv&include_all_commits=true&bg_color=eeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=7f0000&title_color=7f0000&text_color=b71c1c" alt="Giulio's github stats" /> </a></p>
 
+<p align="center">
+~</p>
+
+
+<h2 align="center"> Projects</h2>
+
+
+* [`Tfest`](https://github.com/giuliovv/tfest) : Estimate a transfer function from its frequency response
+* [`Duckietown`](https://github.com/poliduckie) : A reinforcement learning based autonomous driving competition
+* [`AEA`](https://github.com/aeapolimi) : The first Automation and Robotics Engineering Association of Politecnico di Milano
+* [`Airhive`](https://github.com/airhive) : Spatial prediction of pollution spread, NASA Space Apps 2018 runner-ups
+
 ___
 
 

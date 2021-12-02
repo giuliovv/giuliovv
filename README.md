@@ -22,6 +22,7 @@ I'm an Automation and Control Systems Engineering MSc student at Politecnico di 
     * [`Airhive App`](https://github.com/airhive/airhive_app) : A flutter app for the project, built for both Android and iOS
     * [`Airhive Messages`](https://github.com/airhive/airhive_messages) : Python script, Voronoi to quickly find users near a target location
     * [`Airhive ML`](https://github.com/airhive/airhive_previsions) : Study of pollution spreading using data analysis and RNNs
+* [`Scout Odometry`](https://github.com/giuliovv/scout_odometry) : Odometry calculation of a robot with ROS and C++
 
 ___
 

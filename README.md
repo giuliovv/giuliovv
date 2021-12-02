@@ -23,6 +23,8 @@ I'm an Automation and Control Systems Engineering MSc student at Politecnico di 
     * [`Airhive Messages`](https://github.com/airhive/airhive_messages) : Python script, Voronoi to quickly find users near a target location
     * [`Airhive ML`](https://github.com/airhive/airhive_previsions) : Study of pollution spreading using data analysis and RNNs
 * [`Scout Odometry`](https://github.com/giuliovv/scout_odometry) : Odometry calculation of a robot with ROS and C++
+* [`Trajetory Planning`](https://github.com/giuliovv/trajectory_planning) : Optimal trajectory planning for a car in a race circuit 
+* [`Hype`](https://github.com/giuliovv/hype) : Playing with solidity and the blockchain 
 
 ___
 

@@ -25,6 +25,7 @@ I'm an Automation and Control Systems Engineering MSc student at Politecnico di 
 * [`Scout Odometry`](https://github.com/giuliovv/scout_odometry) : Odometry calculation of a robot with ROS and C++
 * [`Trajectory Planning`](https://github.com/giuliovv/trajectory_planning) : Optimal trajectory planning for a car in a race circuit 
 * [`Hype`](https://github.com/giuliovv/hype) : Playing with solidity and the blockchain 
+* [`Neural Networks Competition`](https://github.com/giuliovv/ANNDL_competitions) : CNNs and RNNs competition, finished in top 5%!
 
 ___
 

@@ -16,6 +16,7 @@ I'm an Automation and Control Systems Engineering MSc student at Politecnico di 
 
 * [`Tfest`](https://github.com/giuliovv/tfest) : Estimate a transfer function from its frequency response
 * [`Duckietown`](https://github.com/poliduckie) : An autonomous driving competition based on reinforcement learning, AI Driving Olympics 2021 finalists! Also present at NeurIPS 2021
+    * [`DuckRace`](https://github.com/giuliovv/duckrace) : nMPC based autonomous driving.
 * [`AEA`](https://www.aeapolimi.it) : The first Automation and Robotics Engineering Association of Politecnico di Milano
     * [`AEA website`](https://github.com/aeapolimi/aeapolimi.github.io) : AEA static, ssr Website, built with Javascript and Gatsby
 * [`Airhive`](https://github.com/airhive) : Pollution spreading spatial prediction, NASA Space Apps 2018 runner-ups

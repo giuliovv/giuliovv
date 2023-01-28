@@ -2,7 +2,7 @@
 
 ___
 <p align="center">
-I'm a Data Engineer at Amazon and Automation and Control Systems Engineering MSc student at Politecnico di Milano.
+I'm a Data Engineer at Amazon and a Control Systems Engineering MSc student at Politecnico di Milano.
 </p>
 
 &nbsp;
